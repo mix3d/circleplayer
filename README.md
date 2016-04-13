@@ -14,6 +14,7 @@ TODO:
  - a better font/asset for the play and pause? SVG, Font Awesome, etc? 
    - Pseudo classes can work, but can't get the hover effect easily
    - no dependancies is better
+ - add new skin samples
 
 **CirclePlayer readme.MD:**
 
